@@ -1,0 +1,22 @@
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/phpdave11/gofpdi v1.0.14-0.20240330204243-828e1936ebd9
+## explicit; go 1.12
+github.com/phpdave11/gofpdi
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/signintech/gopdf v0.26.1
+## explicit; go 1.13
+github.com/signintech/gopdf
+github.com/signintech/gopdf/fontmaker/core
+# github.com/stretchr/testify v1.9.0
+## explicit; go 1.17
+github.com/stretchr/testify/assert
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
